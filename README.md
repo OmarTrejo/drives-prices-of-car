@@ -28,7 +28,7 @@ We used a **linear regression model** to quantify the impact of various factors 
 
 ## 🔗 Access the Notebook
 
-👉 [Click here to view the notebook](./YourNotebookFileName.ipynb)
+👉 [Click here to view the notebook](./prompt_II.ipynb)
 
 ---
 
